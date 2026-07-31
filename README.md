@@ -12,7 +12,7 @@ The platform integrates:
 * MITRE ATT&CK framework for technique identification
 * Python-based data processing pipelines
 * Groq LLM integration for automated threat analysis
-* Streamlit dashboard for security visualization
+* Dashboard for security visualization
 
 ---
 
@@ -138,7 +138,6 @@ caldera-ai-project/
 
 ## Visualization
 
-* Streamlit
 * Data visualization components
 
 ---
@@ -222,7 +221,7 @@ Generated reports include:
 
 ## Launch Dashboard
 
-Start the Streamlit dashboard:
+Start the dashboard:
 
 ```bash
 python dashboard/app.py
