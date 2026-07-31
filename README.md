@@ -95,6 +95,7 @@ caldera-ai-project/
 ├── dashboard/
 |   ├── phase6/
 |       └── output/
+|           ├── screenshots
 |           ├── groq_soc_report.md
 |       ├── groq_analyzer.py
 │   ├── prompt_templates/
