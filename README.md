@@ -225,7 +225,7 @@ Generated reports include:
 Start the Streamlit dashboard:
 
 ```bash
-streamlit run dashboard/app.py
+python dashboard/app.py
 ```
 
 The dashboard provides a visual representation of:
